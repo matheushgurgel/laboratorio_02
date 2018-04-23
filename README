@@ -1,0 +1,16 @@
+Discente: Matheus Henrique Pinto Gurgel
+Matricula:2016043960
+Curso: Tecnologia da Informação (UFRN)
+
+Laboratório: Consiste em um apunhados de classes da geometria plana e espacial, contendo as classes triangulo, retangulo, quadrado, circulo, esfera, cubo, paralepipedo, piramide, utilizando por meio da geometria.cpp(main) para fazer rodar um codigo que seja capaz de calcular a area, perimetro e volume das classes acima declaradas.
+
+Compilar utilizando o make
+Acessar o diretório /bin e rodar o execultável, em linha de comando vai ficar igual a seguir:
+
+./geometria <figura geométrica> <atributo1> <atributo2>
+
+por exemplo, no caso do triangulo:
+
+./geometria triangulo 2.0 3.0
+
+Dificuldades encontradas: Tive dificuldade em entender o problema e visualizar umasolução, além de um pouco de problema no uso do argc e argv, tive que fazer um pouco de pesquisa, mas no final acabou dando tudo certo.
